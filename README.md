@@ -8,11 +8,11 @@ For this assignment, please complete the following tasks:
 - - `git checkout -b <firstname-lastname>`
 - Create a new file called `<firstName-lastName>.php`
 - In your new file, use the data from `testData.php` and create a foreach loop that prints out the contents of the 2d array. 
-- - Each inner array should be printed as a div element. 
-- - The Key for the inner array value should be printed in an H3 heading element.
+- - Each inner array should be printed inside it's own div element. 
+- - The Key for the inner array value should be printed as an H3 heading element.
 - - The individual values inside the inner arrays should be printed as an unordered list `<ul>`).
 - For example:
-- <div style="border:1px black solid;"><h3>Key</h3><ul><li>Item 1</li><li>Item 2</li><li>Item 3</li></div> 
+><div><h3>Key</h3><ul><li>Item 1</li><li>Item 2</li><li>Item 3</li></div> 
 
 - Once completed, push your branch
 `git push --set-upstream origin <your-branch-name>`
