@@ -11,9 +11,12 @@ For this assignment, please complete the following tasks:
 - - Each inner array should be printed as a div element. 
 - - The Key for the inner array value should be printed in an H3 heading element.
 - - The individual values inside the inner arrays should be printed as an unordered list `<ul>`).
-  <div><h3>Key</h3><ul><li>Item 1</li><li>Item 2</li><li>Item 3</li>
+- For example:
+<div style="border:1px black solid;"><h3>Key</h3><ul><li>Item 1</li><li>Item 2</li><li>Item 3</li></div> 
+
 - Once completed, push your branch
 `git push --set-upstream origin <your-branch-name>`
+
 - In github, create a pull request with master as the base branch and your branch as the compare branch. 
   
-  From there, I will review the code and merge the branch into master. 
+From there, I will review the code and merge the branch into master. 
