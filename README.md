@@ -20,3 +20,4 @@ For this assignment, please complete the following tasks:
 - In github, create a pull request with master as the base branch and your branch as the compare branch. 
   
 From there, I will review the code and merge the branch into master. 
+NOTE: I will delete your branch after I merge to master. So if you want to make any other changes after merge, you'll need to make a new branch. 
