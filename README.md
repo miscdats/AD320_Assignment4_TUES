@@ -7,7 +7,7 @@ For this assignment, please complete the following tasks:
 - Create a new branch from master, use your name as the branchname
 - - `git checkout -b <firstname-lastname>`
 - Create a new file called `<firstName-lastName>.php`
-- In your new file, use the data from `testData.php` and create a foreach loop that prints out the contents of the 2d array. 
+- In your new file, use the data from `testData.php`(Do not copy the data into your file, use a require method to include the file) and create a foreach loop that prints out the contents of the 2d array. 
 - - Each inner array should be printed inside it's own div element. 
 - - The Key for the inner array value should be printed as an H3 heading element.
 - - The individual values inside the inner arrays should be printed as an unordered list `<ul>`).
