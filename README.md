@@ -3,7 +3,7 @@ Git Exercise for AD320
 
 For this assignment, please complete the following tasks:
 - Clone this repository to your local machine with
-- - `git clone https://github.com/BobMcHenry/AD320_Assignment4_THURS`
+- - `git clone https://github.com/BobMcHenry/AD320_Assignment4_TUES`
 - Create a new branch from master, use your name as the branchname
 - - `git checkout -b <firstname-lastname>`
 - Create a new file called `<firstName-lastName>.php`
