@@ -36,4 +36,4 @@ $data = get2dArray();
   </div>
 </body>
 
-<?php //this change is to test setting upstream by "git branch --set-upstream-to" method as git push --set-upstream is deprecated. ?>
+<?php // git push --set-upstream is deprecated. This was added to test "git track" as a the replacement for setting upstream ?>
